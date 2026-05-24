@@ -57,6 +57,9 @@ Place and connect the following components:
   - FWHM width of optical spectra  
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8c8aac41-ebcb-4868-8e86-38487428c056" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7878781b-12da-46e6-9ada-013fa45d42ef" />
 
 ## Analysis
 Compare the simulation results with the theoretical calculations and discuss any observed differences.
@@ -65,6 +68,9 @@ Compare the simulation results with the theoretical calculations and discuss any
 ---
  Results to Record
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
+
+## Result
+Thus, the Experiment was successfully completed and the output is verified.
 
 
 
